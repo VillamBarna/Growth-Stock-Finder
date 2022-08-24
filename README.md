@@ -1,5 +1,5 @@
 # Growth-Stock-finder
-You can find and analyse potential growth stocks.
+You can find and analyze potential growth stocks.
 
 ## How to set it up:
   In order for the scripts to work you have to install the following packages:
